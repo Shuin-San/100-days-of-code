@@ -9,7 +9,7 @@
 
 **Link to work:** TBA
 
-### Day 1: February 31, 2020
+### Day 1: November 24, 2020
 
 
 **Today's Progress**: Started a new Next.js project for the front end of The Weekly Dev
@@ -18,3 +18,11 @@
 
 **Link(s) to work**: [The Weekly Dev](https://theweeklydev.com)
 
+### Day 2: November 25, 2020
+
+
+**Today's Progress**: Finalized post fetching from the backend to front.
+
+**Thoughts**: Really curious to see what went wrong deploying on vercel (404 error)
+
+**Link(s) to work**: [The Weekly Dev](https://theweeklydev.com)
